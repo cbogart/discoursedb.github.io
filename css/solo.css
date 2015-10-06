@@ -30,15 +30,15 @@ a{
 }	
 	
 a:visited {color : sienna;}
-a:link {color : peru;}
-a:hover {color : brown;}
-a:active {color : brown;}
+a:link {color : red;}
+a:hover {color : blue;}
+a:active {color : blue;}
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Open Sans', sans-serif;  
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
-  color: #111;
+  color:black;
   text-rendering: optimizeLegibility;
 }
 
