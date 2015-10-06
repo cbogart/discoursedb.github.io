@@ -3,9 +3,9 @@
 @import url(//fonts.googleapis.com/css?family=Inconsolata:400,700);
 
 html {
-		background-color : antiquewhite;
-		font-family: 'Open Sans', sans-serif;
-		font-size : 14px;
+	background-color : white;
+	font-family: 'Open Sans', sans-serif;
+	font-size : 14px;
 }
 
 @media (min-width: 30rem) {
@@ -25,14 +25,14 @@ body {
   }
 }
 
-a {
-  color: #0074d9; /* From http://clrs.cc */
-  text-decoration: none;
-}
-
-a:hover, a:focus {
-  text-decoration: underline;
-}
+a{ 
+	text-decoration: none;
+}	
+	
+a:visited {color : sienna;}
+a:link {color : peru;}
+a:hover {color : brown;}
+a:active {color : brown;}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Montserrat, sans-serif;
