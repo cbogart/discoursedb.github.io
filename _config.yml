@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: DiscourseDB - Bridging discourse across platforms
+tag_text: DiscourseDB
+description: DiscourseDB is a framework for representing discourse from multiple platforms in a uniform representation.
 
 # Build settings
 markdown: kramdown
