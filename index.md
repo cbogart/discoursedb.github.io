@@ -10,9 +10,9 @@ As part of a broader effort to provide tools for enabling research and practice 
 We will make available analytics related to constructs including **role taking, help exchange, collaborative knowledge construction, showing openness, taking an authoritative stance, attitudes, confusion, alliance and opposition**. In enabling application of such metrics across datasets from multiple platforms, research questions related to the mediating and moderating effect of these process and state measures on information transfer, learning, and attrition can be conducted, building on the earlier research of our team.
 
 ##Research and Development Team
-[Carolyn P. Rose](https://www.cs.cmu.edu/~cprose/)
+[Carolyn P. Rose](https://www.cs.cmu.edu/~cprose/), Carnegie Mellon Unviversity
 
-[Oliver Ferschke](http://www.ferschke.com)
+[Oliver Ferschke](http://www.ferschke.com), Carnegie Mellon University
 
 ##Funding
 
