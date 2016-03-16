@@ -3,9 +3,6 @@ layout: default
 published: true
 ---
 
-
-
-
 As part of a broader effort to provide tools for enabling research and practice in the space of <a href="http://dance.cs.cmu.edu">collaborative and Discussion based learning</a>, DiscourseDB is an NSF funded data infrustructure project designed to bridge data sources from multiple platforms for hosting those learning experiences. Our vision is to provide a common data model designed to accommodate data from diverse sources including but not limited to **Chat, Threaded Discussions, Blogs, Twitter, Wikis, and Text messaging**. 
 
 We will make available analytics components related to constructs including **role taking, help exchange, collaborative knowledge construction, showing openness, taking an authoritative stance, attitudes, confusion, alliance and opposition**. In enabling application of such metrics across datasets from multiple platforms, research questions related to the mediating and moderating effect of these process and state measures on information transfer, learning, and attrition can be conducted, building on the earlier research of our team.
