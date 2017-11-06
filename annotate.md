@@ -33,27 +33,27 @@ an online course.
 
 <img alt="Click remember then type the name you want to assign" src="save_selection.png" width="250px"> 
   
-  
 2. Open that subset in Brat  
-  * In the right panel, choose Annotate, and click the Annotate icon <img alt="click Annotate" src="brat_choices.png" width="150px">
+  * In the right panel, choose Annotate, and click the Annotate icon 
   * The Brat page will open in your browser.  The Brat tool 
 requires a separate login at this time: click "login" in the upper right
 corner, and use username 'discoursedb' and password 'discoursedb' 
-
-<img alt="click Brat in upper right, and log in" src="brat_login.png" width="250px">
   * Navigate through the hierarchy to conversations you are interested in
 annotating.  Once you are in a conversation, you can move among them with the Next and Previous
 links at the top of the page.
+
+<img alt="click Annotate" src="brat_choices.png" width="150px">
+<img alt="click Brat in upper right, and log in" src="brat_login.png" width="250px">
 
 3. Add Annotations in the Brat tool
   * <font color="red">IMPORTANT</font>: Select a substring of the <em>header</em> of a contribution
 in order to label the whole contribution, as shown in the picture below.  Our current generation of
 tools do not work with annotations of particular spans within a contribution, or selections spanning
 multiple contributions. 
-
-<img alt="select part of the header of a contribution" src="select_header.png" width="250px">
   * You are limited to the annotations supplied -- if you want a different label, please contact us.
 A way to choose your own set of labels is coming soon.
+
+<img alt="select part of the header of a contribution" src="select_header.png" width="250px">
 
 4. Return to DiscourseDB and explicitly re-import the Brat annotations
   * When you are done, just close the Brat window -- your annotations are saved as you go.
