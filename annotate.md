@@ -53,7 +53,7 @@ multiple contributions.
   * You are limited to the annotations supplied -- if you want a different label, please contact us.
 A way to choose your own set of labels is coming soon.
 
-<img alt="select part of the header of a contribution" src="select_header.png" width="250px">
+<img alt="select part of the header of a contribution" src="select_header.png" width="450px">
 
 4. Return to DiscourseDB and explicitly re-import the Brat annotations
   * When you are done, just close the Brat window -- your annotations are saved as you go.
