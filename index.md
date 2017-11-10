@@ -16,8 +16,8 @@ These datasets can be viewed in the [Data browser](https://erebor.lti.cs.cmu.edu
 This month (Nov 2017) we are working to allow integration of DiscouseDB data into [Learnsphere](http://learnsphere.org/) workflows, allowing researchers to apply its growing infrastructure of analyses to discourse data, and perform combined analyses with other data products under the Learnsphere umbrella.
 
 <h2>Research and Development Team</h2>
-[Carolyn P. Rose](https://www.cs.cmu.edu/~cprose/), Carnegie Mellon University<br/>
-[Chris Bogart](http://chris.bogarthome.net/), Carnegie Mellon University<br/>
+[Carolyn P. Rose](https://www.cs.cmu.edu/~cprose/), Carnegie Mellon University<br>
+[Chris Bogart](http://chris.bogarthome.net/), Carnegie Mellon University<br>
 [Oliver Ferschke](http://www.ferschke.com), Carnegie Mellon University
 
 <h2>Documentation</h2>
