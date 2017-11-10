@@ -21,8 +21,8 @@ This month (Nov 2017) we are working to allow integration of DiscouseDB data int
 [Oliver Ferschke](http://www.ferschke.com), Carnegie Mellon University
 
 <h2>Documentation</h2>
-[How to annotate data](https://discoursedb.github.com/annotate)
-[How to generalize annotations](https://discoursedb.github.com/generalize)
+[How to annotate data](https://cbogart.github.io/discoursedb.github.io/annotate)<br>
+[How to generalize annotations](https://cbogart.github.io/discoursedb.github.io/generalize)<br>
 [DiscourseDB Wiki](https://github.com/DiscourseDB/discoursedb-core/wiki)
 
 <h2>Funding</h2>
