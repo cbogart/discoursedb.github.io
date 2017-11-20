@@ -8,9 +8,9 @@ As part of a broader effort to provide tools for enabling research and practice 
 We will make available analytics components related to constructs including **role taking, help exchange, collaborative knowledge construction, showing openness, taking an authoritative stance, attitudes, confusion, alliance and opposition**. In enabling application of such metrics across datasets from multiple platforms, research questions related to the mediating and moderating effect of these process and state measures on information transfer, learning, and attrition can be conducted, building on the earlier research of our team.
 
 <h2>Current Capabilities</h2>
-We have one publically available dataset, consisting of online discussion of bugs and features in a set of related open source software projects, [OpenFL](http://www.openfl.org/).  Other datasets are available to researchers by request, subject to IRB approval.
+We have one publically available dataset, consisting of online discussion of bugs and features in a set of related open source software projects, [OpenFL](http://www.openfl.org/).   Other datasets are available to researchers by request, subject to IRB approval.
 
-These datasets can be viewed in the [Data browser](https://erebor.lti.cs.cmu.edu/discoursedb/index.html).  Researchers can create their own annotations on this data using an integrated installation of the [Brat](http://brat.nlplab.org/) annotation tool, and apply machine learning techniques to generalize these labels using [LightSide](http://ankara.lti.cs.cmu.edu/side/).
+These datasets can be viewed in the [Data browser](https://erebor.lti.cs.cmu.edu/discoursedb/index.html) -- request access at <a href="mailto:discoursedb-help@lists.andrew.cmu.edu">discoursedb-help@lists.andrew.cmu.edu</a>.  Researchers can create their own annotations on this data using an integrated installation of the [Brat](http://brat.nlplab.org/) annotation tool, and apply machine learning techniques to generalize these labels using [LightSide](http://ankara.lti.cs.cmu.edu/side/).
 
 <h2>Next Steps</h2>
 This month (Nov 2017) we are working to allow integration of DiscouseDB data into [Learnsphere](http://learnsphere.org/) workflows, allowing researchers to apply its growing infrastructure of analyses to discourse data, and perform combined analyses with other data products under the Learnsphere umbrella.
